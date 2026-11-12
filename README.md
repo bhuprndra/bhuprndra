@@ -73,8 +73,9 @@ followers](https://img.shields.io/github/followers/bhuprndra?label=Followers&sty
 -   Tested the application with **50+ users**, achieving a reported
     **95% satisfaction rate** for recommendation quality.
 
-    🔗 **Live Demo:** [IPL Score Predictor]([https://ai-based-health-fitness-recommendation.onrender.com/])
-    🔗 **Repository:** [IPL-score-Predictor](https://github.com/bhuprndra/AI-Based-Health-Fitness-Recommendation-System)
+    🔗 **Live Demo:** [AI-Based Health & Fitness Recommendation System](https://ai-based-health-fitness-recommendation.onrender.com/)
+    
+    🔗 **Repository:** [AI-Based Health & Fitness Recommendation System](https://github.com/bhuprndra/AI-Based-Health-Fitness-Recommendation-System)
 
 ### 🏏 IPL Score Prediction Using Random Forest
 
@@ -106,7 +107,7 @@ Predictor](https://ipl-score-predictor-j564.onrender.com/)\
     exception handling.
     
     🔗 **Repository:**
-[IPL-score-Predictor](https://github.com/bhuprndra/QuizSystem-Project-Using-JAVA)
+[ JAVA Quiz System](https://github.com/bhuprndra/QuizSystem-Project-Using-JAVA)
 ------------------------------------------------------------------------
 ## 🏆 GitHub Trophies
 
