@@ -103,20 +103,6 @@ Predictor](https://ipl-score-predictor-j564.onrender.com/)\
     exception handling.
 
 ------------------------------------------------------------------------
-
-## 📊 GitHub Statistics
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=bhuprndra&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuprndra&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub
-Streak](https://streak-stats.demolab.com?user=bhuprndra&theme=tokyonight&hide_border=true)
-
-------------------------------------------------------------------------
-
 ## 🏆 GitHub Trophies
 
 ![GitHub
