@@ -160,5 +160,3 @@ Trophies](https://github-profile-trophy.vercel.app/?username=bhuprndra&theme=tok
 
 > Code. Learn. Build. Repeat.
 
-⭐ If you find my work interesting, feel free to explore my repositories
-and connect with me!
