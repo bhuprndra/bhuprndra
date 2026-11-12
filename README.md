@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhupendra Rai
 
-### MCA (Artificial Intelligence & IoT) @ NIT Patna \| Software Developer \| AI/ML Enthusiast
+### 🎓 MCA (AI & IoT) @ NIT Patna| 🤖 AI/ML Enthusiast | 💻 Software Development | 🚀Building Intelligent Applications
 
 ![Profile
 views](https://komarev.com/ghpvc/?username=bhuprndra&label=Profile%20Views&color=blueviolet&style=flat)
@@ -15,18 +15,40 @@ followers](https://img.shields.io/github/followers/bhuprndra?label=Followers&sty
 
 ## 🚀 About Me
 
--   🎓 Pursuing **Master of Computer Applications (MCA) in Artificial
-    Intelligence & Internet of Things** at **National Institute of
-    Technology, Patna** (2024--2027).
--   💻 Interested in **Software Development, Artificial Intelligence,
-    Machine Learning, and Web Development**.
--   🧠 Comfortable working with **Python, Java, C, C++, JavaScript, and
-    SQL**.
--   🛠️ Enjoy building practical applications, developing machine
-    learning models, and integrating AI into software solutions.
--   🏆 Solved **300+ algorithmic problems** across coding platforms.
--   🌱 Continuously learning and improving my problem-solving and
-    software engineering skills.
+Hello! I'm Bhupendra Rai, a postgraduate Computer Applications
+student specializing in Artificial Intelligence and Internet of Things
+at the National Institute of Technology, Patna (2024--2027).
+
+I am an enthusiastic developer who enjoys turning ideas into useful,
+practical software. I am particularly interested in the intersection of
+software engineering and artificial intelligence, where I can build
+applications that solve real-world problems.
+- 🎓 Currently pursuing MCA (Artificial Intelligence & IoT) at NIT
+  Patna, with a 9.17 CGPA.
+- 💡 Interested in Software Development, Artificial Intelligence,
+  Machine Learning, and Full-Stack Web Development.
+- 💻 Work with programming languages including Python, Java, C, C++,
+  and JavaScript.
+- 🤖 Have hands-on experience building machine learning models and
+  integrating Google Gemini AI into web applications.
+- 🌐 Enjoy developing web applications using Flask, HTML, CSS,
+  jQuery, and exploring modern frontend technologies.
+- 📊 Familiar with data processing, feature engineering, model
+  evaluation, and model optimization using Python's data science
+  ecosystem.
+- 🗄️ Understand relational database concepts and have worked with
+  MySQL, JDBC, and database-driven applications.
+- 🧩 Strengthen my problem-solving skills through regular practice of
+  Data Structures and Algorithms.
+- 🏆 Solved 300+ algorithmic problems across LeetCode,
+  GeeksforGeeks, and CodeChef.
+- ⭐ Earned 4-star ratings in C and Python on HackerRank.
+- 🌱 Always eager to learn new tools, explore emerging technologies,
+  and improve my software engineering skills.
+- 🤝 Open to collaborating on interesting AI/ML, web development,
+  and software engineering projects.
+My goal: To become a well-rounded software engineer who builds
+reliable, scalable, and intelligent applications.
 
 ------------------------------------------------------------------------
 
